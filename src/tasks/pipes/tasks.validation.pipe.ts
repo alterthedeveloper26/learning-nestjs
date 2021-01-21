@@ -3,7 +3,7 @@ import {
   BadRequestException,
   PipeTransform,
 } from '@nestjs/common';
-import { TaskStatus } from '../tasks.model';
+import { TaskStatus } from '../task.task-status.enum';
 
 // import { PipeTransform } from '@nestjs/common';
 

@@ -1,5 +1,4 @@
-import { TaskStatusValidationPipe } from '../pipes/tasks.validation.pipe';
-import { TaskStatus } from '../tasks.model';
+import { TaskStatus } from '../task.task-status.enum';
 import { TasksService } from '../tasks.service';
 
 export class UpdateTaskDTO {
