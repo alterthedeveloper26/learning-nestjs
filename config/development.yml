@@ -1,7 +1,7 @@
 db:
   host: 'localhost'
   username: 'root'
-  password: '@Kid14422000'
+  password: 'anoob'
   synchronize: true
 
 jwt:
